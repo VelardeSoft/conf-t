@@ -238,7 +238,7 @@ switchport trunk native vlan 99
 
 ## ✅ Notas Finales
 
-- Siempre usar `show vlan brief` para verificar asignaciones.
+- Siempre usar `show vlan brief` para verificar asignaciones en switch,s
 - Asegúrate de que los enlaces troncales tengan configurada correctamente la `native vlan`.
 - La `VLAN 99` sirve como VLAN nativa para gestión.
 - Guarda este archivo como `README.md` en tu proyecto para tener acceso rápido.
